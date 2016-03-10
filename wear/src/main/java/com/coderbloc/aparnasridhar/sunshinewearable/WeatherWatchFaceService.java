@@ -62,6 +62,8 @@ import java.util.concurrent.TimeUnit;
  * mode, the text is drawn without anti-aliasing in ambient mode. On devices which require burn-in
  * protection, the hours are drawn in normal rather than bold. The time is drawn with less contrast
  * and without seconds in mute mode.
+ *
+ * This was modified to display sunshine app weather details
  */
 public class WeatherWatchFaceService extends CanvasWatchFaceService {
     private static final String TAG = "DigitalWatchFaceService";
