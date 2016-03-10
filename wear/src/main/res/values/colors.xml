@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="digital_background">#03A9F4</color>
+    <color name="digital_text">#fff</color>
+
+    <color name="digital_date">#ccc</color>
+    <color name="digital_am_pm">#fff</color>
+    <color name="digital_colons">#fff</color>
+
+    <color name="digital_max_temp">#fff</color>
+    <color name="digital_min_temp">#ccc</color>
+</resources>
